@@ -1,5 +1,5 @@
 """Convolution 1D and autoencoder"""
-# Note: Spaghetti code needs to me fixed!
+# Note: Spaghetti code needs to be fixed!
 import time
 import random
 import pickle
