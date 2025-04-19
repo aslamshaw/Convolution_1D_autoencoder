@@ -180,6 +180,8 @@ Below are figures included in this repository to help visualize the model and re
 - Stability of predictions across small frequency window (patch from 3.00 to 3.05)
 <img src="images/parameter_vs_frequency_material_parameter_r2.jpg" width="500" height="auto" />
 
+> 📌 *Note*: Visualizations shown here focus on selected key parameters (e.g., r2).  
+> ✨ Similar plots were created for other material and geometric parameters, all showing strong predictive performance. These have been omitted from the repository for brevity.
 
 ---
 
