@@ -162,6 +162,7 @@ Below are figures included in this repository to help visualize the model and re
 ### 📌 3D & 2D View of Fiber Structure
 - 3D rendering of cylindrical fiber within a matrix
 <img src="images/fiber_structure_view.png" width="500" height="auto" />
+
 - 2D cross-section shows concentric layers (core, interphase, matrix)
 <img src="images/2d_simplified_model.PNG" width="500" height="auto" />
 
