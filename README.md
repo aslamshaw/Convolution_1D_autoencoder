@@ -159,20 +159,25 @@ r2: Radius of the interphase layer boundary, i.e., the outer boundary of the int
 
 Below are figures included in this repository to help visualize the model and results:
 
-### 📌 Image 1 – 3D & 2D View of Fiber Structure
+### 📌 3D & 2D View of Fiber Structure
 - 3D rendering of cylindrical fiber within a matrix
+![Fiber Structure View](images/fiber_structure_view.png)
 - 2D cross-section shows concentric layers (core, interphase, matrix)
+![2D Simplified Model](images/2d_simplified_model.PNG)
 
-### 📌 Image 2 – Microstructure & Adhesive Profile
+### 📌 Microstructure & Adhesive Profile
 - SEM and micrograph images show real-world fiber cross-sections
 - Plot shows radial adhesive cross-link density (supports modeling assumptions)
+![Microstructure_SEM](images/microstructure_sem.PNG)
 
-### 📌 Image 3 – Predicted vs Actual r2
+### 📌 Predicted vs Actual r2
 - Scatter plot comparing predicted and actual values
 - High overlap = strong predictive power
+![Predicted VS Actual Material Parameter](images/predicted_vs_actual_material_parameter.jpg)
 
-### 📌 Image 4 – Material Parameter vs Frequency Patch
+### 📌 Material Parameter vs Frequency Patch
 - Stability of predictions across small frequency window (patch from 3.00 to 3.05)
+![Parameter VS Frequency Material Parameter](images/parameter_vs_frequency_material_parameter.jpg)
 
 ---
 
