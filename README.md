@@ -161,23 +161,24 @@ Below are figures included in this repository to help visualize the model and re
 
 ### 📌 3D & 2D View of Fiber Structure
 - 3D rendering of cylindrical fiber within a matrix
-![Fiber Structure View](images/fiber_structure_view.png)
+<img src="images/fiber_structure_view.png" width="500" height="auto" />
 - 2D cross-section shows concentric layers (core, interphase, matrix)
-![2D Simplified Model](images/2d_simplified_model.PNG)
+<img src="images/2d_simplified_model.PNG" width="500" height="auto" />
 
 ### 📌 Microstructure & Adhesive Profile
 - SEM and micrograph images show real-world fiber cross-sections
 - Plot shows radial adhesive cross-link density (supports modeling assumptions)
-![Microstructure_SEM](images/microstructure_sem.PNG)
+<img src="images/microstructure_sem.PNG" width="500" height="auto" />
 
 ### 📌 Predicted vs Actual r2
 - Scatter plot comparing predicted and actual values
 - High overlap = strong predictive power
-![Predicted VS Actual Material Parameter](images/predicted_vs_actual_material_parameter.jpg)
+<img src="images/predicted_vs_actual_material_parameter_r2.jpg" width="500" height="auto" />
 
 ### 📌 Material Parameter vs Frequency Patch
 - Stability of predictions across small frequency window (patch from 3.00 to 3.05)
-![Parameter VS Frequency Material Parameter](images/parameter_vs_frequency_material_parameter.jpg)
+<img src="images/parameter_vs_frequency_material_parameter_r2.jpg" width="500" height="auto" />
+
 
 ---
 
